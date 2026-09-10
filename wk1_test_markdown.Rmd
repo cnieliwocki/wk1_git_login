@@ -1,0 +1,11 @@
+---
+title: "wk1_test_markdown"
+author: "Chloe Niel"
+date: "2026-09-10"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#Hello world!
